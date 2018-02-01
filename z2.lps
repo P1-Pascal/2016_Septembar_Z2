@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="z2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="51"/>
+        <CursorPos X="11" Y="217"/>
+        <FoldState Value=" T3I095 pj8jT0B3~"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="z2.pas"/>
+        <Caret Line="59" Column="5" TopLine="10"/>
+      </Position1>
+      <Position2>
+        <Filename Value="z2.pas"/>
+        <Caret Line="54" Column="23" TopLine="3"/>
+      </Position2>
+      <Position3>
+        <Filename Value="z2.pas"/>
+        <Caret Line="64" Column="16" TopLine="30"/>
+      </Position3>
+      <Position4>
+        <Filename Value="z2.pas"/>
+        <Caret Line="99" Column="26" TopLine="77"/>
+      </Position4>
+      <Position5>
+        <Filename Value="z2.pas"/>
+        <Caret Line="90" Column="65" TopLine="72"/>
+      </Position5>
+      <Position6>
+        <Filename Value="z2.pas"/>
+        <Caret Line="156" Column="22" TopLine="129"/>
+      </Position6>
+      <Position7>
+        <Filename Value="z2.pas"/>
+        <Caret Line="154" Column="20" TopLine="106"/>
+      </Position7>
+      <Position8>
+        <Filename Value="z2.pas"/>
+        <Caret Line="97" Column="31" TopLine="80"/>
+      </Position8>
+      <Position9>
+        <Filename Value="z2.pas"/>
+        <Caret Line="57" Column="15" TopLine="41"/>
+      </Position9>
+      <Position10>
+        <Filename Value="z2.pas"/>
+        <Caret Line="59" Column="16" TopLine="41"/>
+      </Position10>
+      <Position11>
+        <Filename Value="z2.pas"/>
+        <Caret Line="63" Column="42" TopLine="41"/>
+      </Position11>
+      <Position12>
+        <Filename Value="z2.pas"/>
+        <Caret Line="81" Column="9" TopLine="66"/>
+      </Position12>
+      <Position13>
+        <Filename Value="z2.pas"/>
+        <Caret Line="199" Column="24" TopLine="114"/>
+      </Position13>
+      <Position14>
+        <Filename Value="z2.pas"/>
+        <Caret Line="81" Column="9" TopLine="66"/>
+      </Position14>
+      <Position15>
+        <Filename Value="z2.pas"/>
+        <Caret Line="63" Column="42" TopLine="41"/>
+      </Position15>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
